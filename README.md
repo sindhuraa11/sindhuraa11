@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sindhura andela</h1>
+<h1 align="center">Hi 👋, I'm sindhura</h1>
 <h3 align="center">frontend learner</h3>
 
 - 🌱 I’m currently learning **CSS,FIGMA**
