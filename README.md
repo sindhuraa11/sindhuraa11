@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **CSS,FIGMA**
 
+- 💫 I'm interested in **art, fashion, photography besides tech stuff**
+
 - 📫 How to reach me **andelasindhura@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
