@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sindhura</h1>
-<h3 align="center">iam a learner</h3>
+<h3 align="center">Iam a learner</h3>
 
 - 🔭 I’m currently working on **Frontend web development**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **andelasindhura@gmail.com**
 
-- ⚡ Fun fact **delusu is solulu....I am not kidding **
+- ⚡ Fun fact **delulu is solulu....I am not kidding **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
